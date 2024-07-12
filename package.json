@@ -26,7 +26,7 @@
   },
   "scripts": {
     "storybook": "storybook dev -p 6006",
-    "build": "esbuild ./src/index.js --bundle --format=esm --outdir=dist",
+    "build": "node esbuild.js",
     "build-storybook": "storybook build"
   }
 }

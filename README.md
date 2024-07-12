@@ -19,3 +19,5 @@ Sure, here are the commands with single-line explanations:
 7. Setting up esbuild
  - install esbuild as dev dependencies `yarn add esbuild --dev`
  - add scripts for build 
+
+8. Building multiple js Modules - read JSmodules.md 
