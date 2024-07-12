@@ -8,5 +8,3 @@ Sure, here are the commands with single-line explanations:
 
 3. `yarn add react react-dom esbuild -D`
    - Adds `react`, `react-dom`, and `esbuild` as development dependencies for the project.
-
-   add new line 
