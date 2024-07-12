@@ -1,5 +1,1 @@
-module.export = {
-  hello: () => {
-    console.log('hello');
-  },
-};
+export { useScroller } from "./useScroller";
