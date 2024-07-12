@@ -15,3 +15,7 @@ Sure, here are the commands with single-line explanations:
 5. create useScroller.stories.js story in src/stories
 
 6. `yarn storybook` to run the example
+
+7. Setting up esbuild
+ - install esbuild as dev dependencies `yarn add esbuild --dev`
+ - add scripts for build 
