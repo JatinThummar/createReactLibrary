@@ -8,3 +8,10 @@ Sure, here are the commands with single-line explanations:
 
 3. `yarn add react react-dom esbuild -D`
    - Adds `react`, `react-dom`, and `esbuild` as development dependencies for the project.
+
+4. `npx sb init`
+   - Add Storybook in react project , select webpack 5
+
+5. create useScroller.stories.js story in src/stories
+
+6. `yarn storybook` to run the example
